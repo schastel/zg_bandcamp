@@ -4,4 +4,4 @@ bandcamp.py <rootdir> [file.zip...]
 
   Zipfiles must be named like "<bandname> - <album>.zip". 
   
-e.g. bandcamp ~/Music "~/Downloads/The Vision Bleak - Carpathia – A Dramatic Poem (Luxus).zip"
+e.g. bandcamp \~/Music "\~/Downloads/The Vision Bleak - Carpathia – A Dramatic Poem (Luxus).zip"
